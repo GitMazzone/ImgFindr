@@ -51,10 +51,9 @@ tagBarLabel.pack(side = LEFT)
 tagBarLabel.grid()
 
 """
-TODO - make for loop to accept tags & populate
-			 an array of up to 20 tags that will be:
-			 	displayed in a box below
-			 	used to apply/narrow filter
+TODO - make for loop to accept tags & populate an array of up to 20 tags that will be:
+	displayed in a box below
+	used to apply/narrow filter
 
 for i in range(0, 3):
 	print "We're on time"
