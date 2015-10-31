@@ -10,3 +10,6 @@
 - Image label object (to populate through each run through openFileBox method)  
 - Add tags to array for display and filter  
 - Make remaining buttons & components  
+  
+##Rough Layout:  
+![alt text](https://i.gyazo.com/ed51d29fd812fc69374dacf3fc079567.png "ImgFindr rough layout")  
